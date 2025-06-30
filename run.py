@@ -1,1 +1,1 @@
-print('Jedi Knight!')
+print('Jedi Knight Warrior!')
